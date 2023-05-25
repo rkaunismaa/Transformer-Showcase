@@ -11,3 +11,7 @@ So when I started this, I was having a problem pushing this change to github. Th
 
 I want to provide time stamps in this log to indicate the duration between steps. 
 Let's start with creating the code for the model, shall we ... 
+
+### 6:07pm
+
+I am thinking, how do I use this code in Transformers.ipynb to implement JUST an encoder and then JUST a decoder? The Andrej Karpathy [minGPT](https://github.com/karpathy/minGPT) code is just a decoder. I think the same can be said for his other example, [nanoGPT](https://github.com/karpathy/nanoGPT).Look at these examples for guidance on how to do this. 
