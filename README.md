@@ -15,3 +15,9 @@ Let's start with creating the code for the model, shall we ...
 ### 6:07pm
 
 I am thinking, how do I use this code in Transformers.ipynb to implement JUST an encoder and then JUST a decoder? The Andrej Karpathy [minGPT](https://github.com/karpathy/minGPT) code is just a decoder. I think the same can be said for his other example, [nanoGPT](https://github.com/karpathy/nanoGPT).Look at these examples for guidance on how to do this. 
+
+## Friday, May 26, 2023
+
+### 9:20am
+
+Continuing with building the workflow.
