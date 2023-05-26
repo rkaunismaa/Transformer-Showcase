@@ -34,4 +34,4 @@ The [model.py](https://github.com/karpathy/nanoGPT/blob/master/model.py) code fo
 
 Studying the Shakespeare example in the nanoGPT code base because I want to try to implement something like that here.
 
-If you peek inside the config/train_shakespeare_char.py file of the nanoGPT code base, you'll see that we're training a GPT with a context size of up to 256 characters, 384 feature channels, and it is a 6-layer Transformer with 6 heads in each layer.
+If you peek inside the config/train_shakespeare_char.py file of the nanoGPT code base, you'll see that we're training a GPT with a context size of up to 256 characters, 384 feature channels (the width of the embeddings), and it is a 6-layer Transformer with 6 heads in each layer.
