@@ -29,3 +29,7 @@ Studying the code found in [nanoGPT](https://github.com/karpathy/nanoGPT) which 
 ### 11:53am
 
 The [model.py](https://github.com/karpathy/nanoGPT/blob/master/model.py) code found in [nanoGPT](https://github.com/karpathy/nanoGPT) bears a striking similarity to the code found in [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer).
+
+### 5:08pm
+
+Studying the Shakespeare example in the nanoGPT code base because I want to try to implement something like that here.
