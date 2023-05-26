@@ -21,3 +21,7 @@ I am thinking, how do I use this code in Transformers.ipynb to implement JUST an
 ### 9:20am
 
 Continuing with building the workflow.
+
+### 11:08 
+
+Studying the code found in [nanoGPT](https://github.com/karpathy/nanoGPT) which is really excellent.
