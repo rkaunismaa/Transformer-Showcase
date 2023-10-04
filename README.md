@@ -40,4 +40,12 @@ If you peek inside the config/train_shakespeare_char.py file of the nanoGPT code
 
 ### 4:01pm 
 
-Yup, getting back to this cuz I want to resume my deep study of transformers. And I will once again begin with the code from [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
+Yup, getting back to this cuz I want to resume my deep study of transformers. And I will once again begin with the code from [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/). I am curious to see just how much of this code can I get to run on KAUWITB. 
+
+### 4:40pm
+
+The docker container hfpt_Sept1 is not going to work for this repo. Gonna next try a pure pytorch docker container. 
+
+### 4:46pm
+
+Now trying the docker container sad_nightingale, which was spun up from the image pt1131:20230216. 
